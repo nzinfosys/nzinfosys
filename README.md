@@ -1,16 +1,29 @@
-### Hi there 👋
+# NZ InfoSys 
 
-<!--
-**nzinfosys/nzinfosys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NZ InfoSys is the start-up company from Myanmar providing providing software developments, project outsourcing, and various IT services that leveraging IT innovations and adoption to enable our clients to operate more efficiently and produce more value.
 
-Here are some ideas to get you started:
+We aim to be the best at what we do to maximize customer satisfaction, and we emphasize to deliver best quality in every projects and solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Our Solutions
+
+### Products
+ - Tailor-made products for various domains in web-based and mobile apps
+
+### Services
+ - IT Consulting and Services
+ - Customized Software Development ( Web, Mobile, Window )
+ - Software Development & Project Outsourcing
+
+
+## Our Values
+ - Quality
+ - Customer Satisfaction
+ - Innovation
+ - Technology
+
+
+## Contact Us
+ - www.nzinfosys.com
+ - www.facebook.com/nzinfosys
+ - contact@nzinfosys.com
